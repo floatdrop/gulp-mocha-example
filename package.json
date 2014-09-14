@@ -1,0 +1,25 @@
+{
+  "name": "gulp-mocha-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floatdrop/gulp-mocha-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floatdrop/gulp-mocha-example/issues"
+  },
+  "homepage": "https://github.com/floatdrop/gulp-mocha-example",
+  "dependencies": {
+    "express": "^4.9.0",
+    "got": "^1.2.0",
+    "gulp": "^3.8.8",
+    "gulp-mocha": "^1.1.0"
+  }
+}
